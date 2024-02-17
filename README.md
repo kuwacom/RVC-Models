@@ -1,3 +1,10 @@
+# NEWS
+**モデルとデータセットはHuggingFaceに移動しました**
+
+https://huggingface.co/kuwacom/RVC-Models/
+
+https://huggingface.co/datasets/kuwacom/Character-Dataset/
+
 # What Is This
 これはRVC用に学習したモデルです
 
